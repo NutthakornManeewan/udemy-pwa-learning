@@ -1,0 +1,17 @@
+PWS Core building blocks
+[1] Service workers
+  1.1 Caching/Offline support.
+  1.2 Enable other PWA Features.
+
+[2] Background sync = Sync user data in the background.
+
+[3] Web push = Mobile like push notifications.
+
+[4] Application Manifest = Allows addition to Home screen.
+
+[5] Responsive design = App/Layout should work and look good across devices
+
+[6] Geolocation API = Access user location.
+
+[7] Media API = Access device's camera and microphone.
+
