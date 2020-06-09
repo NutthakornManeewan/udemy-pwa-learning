@@ -1,0 +1,13 @@
+### Course outline ###
+1.  Application Manifest
+2.  Service worker basics
+3.  Promise & fetch API
+4.  Service worker caching (Offline access)
+5.  Advanced caching strategies
+6.  Caching dynamic data with indexedDB
+7.  Responsive design (Not deep)
+8.  Background sync
+9.  Web push notification
+10. Media API (Camera & GPS)
+11. Automated Service worker management
+12. SPA & PWA with your #1 framework
